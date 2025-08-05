@@ -1,0 +1,19 @@
+{
+  "name": "龙火火 #1",
+  "description": "这是龙火火系列NFT的第1个作品，longhuohuo NFT Collection",
+  "image": "https://raw.githubusercontent.com/xtlingzi-coder/longhuohuonft/main/longhuohuo.png",
+  "attributes": [
+    {
+      "trait_type": "版本",
+      "value": "1.0"
+    },
+    {
+      "trait_type": "总量",
+      "value": "500份"
+    },
+    {
+      "trait_type": "稀有度",
+      "value": "普通"
+    }
+  ]
+}
